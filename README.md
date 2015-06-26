@@ -10,7 +10,7 @@ There are 6 tests in total. You may only be asked to complete certain tests.
 * [JavaScript and CoffeeScript](https://github.com/factorymedia/factory-code-tests/tree/master/js-code-test)
 * [Ruby](https://github.com/factorymedia/factory-code-tests/tree/master/ruby-code-test)  
 * [PHP](https://github.com/factorymedia/factory-code-tests/tree/master/php-code-test)
-* [Framework](https://github.com/factorymedia/factory-code-tests/tree/master/framework-test)
+* [Framework](https://github.com/factorymedia/factory-code-tests/tree/master/framework-code-test)
 * [Architecture](https://github.com/factorymedia/factory-code-tests/tree/master/architecture-test)
 
 Please attempt to complete the tests supplied by checking out the Git repository.
